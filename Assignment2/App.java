@@ -26,7 +26,7 @@ public class App {
             if (nickNameCount == 3) {
                 continue;
             }
-            System.out.println("E");
+            System.out.println("R");
            
         }
     }
