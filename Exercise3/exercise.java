@@ -1,4 +1,4 @@
-public class exercise {
+public class mdArrayExam {
     public static void main(String[] args) throws Exception {
 
         char[][] mdArray = {{'1','1','1'},{'1','1','1'},{'1','1','1'}, {'1','1','1'}};
@@ -27,7 +27,7 @@ public class exercise {
 
                     //System.out.println("");
 
-                //for (int column = 0; column < 3; column++) {
+                //for (char column = 0; column < 3; column++) {
 
                 //if (rows %2 == 0){
                 //System.out.print(mdArray[rows][column]);
@@ -42,9 +42,9 @@ public class exercise {
 
             // PATTERN 3
                 //System.out.println("3. PATTERN 3");  
-                //for (int rows= 0; rows <mdArray.length; rows++){
+                //for (char rows= 0; rows <mdArray.length; rows++){
                     //System.out.println("");
-                    //for (int column = 0; column <3; column++){        
+                    //for (char column = 0; column <3; column++){        
                         //if (rows == 0 || rows == 3){        
                             //System.out.print(mdArray[rows][column]);        
                         //}        
@@ -62,10 +62,10 @@ public class exercise {
 
              // PATTERN 4
              //System.out.println("4. PATTERN 4");
-             //for (int row = 0; row < mdArray.length; row++) {
+             //for (char row = 0; row < mdArray.length; row++) {
                 //System.out.println(" ");    
                 //System.out.print("row " + row + ": ");    
-            //for (int column = 0; column < 3; column++) {    
+            //for (char column = 0; column < 3; column++) {    
                 //if(row == 0 || row == 2)    
                   //if (column == 0 || column == 2) {    
                    //System.out.print("  ");    
